@@ -1,0 +1,17 @@
+{
+    "profile": {
+        "rol": "Front-End Developer",
+        "description": "More than 3 years of experience in web development. Passionate about new technologies and CSS and JavaScript ecosystem special. <br /> My purpose is to transfer my passion for teaching eb technologies to all those who want start in this field in an updated way, with good practices and from scartch."
+    },
+    "experience": {
+        "first-job-title": "Back-end Developer",
+        "first-job-dates": "Jan 1995 - Jan 2000",
+        "first-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem laborum delectus, repellendus",
+        "second-job-title": "Front-end Developer",
+        "second-job-dates": "Feb 2000 - Mar 2005",
+        "second-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem laborum delectus, repellendus",
+        "last-job-title": "Front-end Developer",
+        "last-job-dates": "Feb 2017 - Current",
+        "last-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem laborum delectus, repellendus"
+    }
+}
